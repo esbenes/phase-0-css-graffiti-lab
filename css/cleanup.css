@@ -1,1 +1,23 @@
 /* write your override styles here */
+#wall .tag-1 #tag-2 #tag-3 .slick-wicked{
+    display: none;
+  }
+
+  .parent #tag-4{
+    display: none;
+  }
+
+  .parent #tag-5 .slick{
+    display: none;
+  }
+
+  .parent{
+    display: none;
+  }
+  .parent #tag-6{
+    display: none;
+  }
+
+  .parent #tag-7 .slick{
+    display: none;
+  } 
